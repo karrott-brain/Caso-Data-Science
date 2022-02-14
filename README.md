@@ -34,4 +34,4 @@ Los datos de conexión son los siguientes:
 
 La entrega es en un Jupyter Notebook en Python o R a los correos rodrigo@karrott.cl y jorge@karrott.cl en un plazo de 48 horas recibido el correo de notificación. El tiempo de trabajo es acotado, al igual que con los clientes en la vida real, los invitamos a enviar sus respuestas aunque no estén todas las preguntas contestadas.
 
-> **Nota**: En la carpeta data de este repositorio se pueden se pueden encontrar los datos a utilizar, sin embargo, se recomienda obtener los datos desde el servidor MySQL indicado.
+> **Nota**: En la carpeta data de este repositorio se pueden encontrar los datos a utilizar, sin embargo, se recomienda obtener los datos desde el servidor MySQL indicado.
